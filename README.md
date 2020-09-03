@@ -1,4 +1,8 @@
 ## 基于 node unblocker 的通用 Web 代理
+<a href="https://heroku.com/deploy?template=https://github.com/stewpidtnlvr/web-proxy-heroku/tree/master
+">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 推荐使用一个部署更简单，启动更快速的 Web 代理 <a href="https://github.com/EtherDream/jsproxy/tree/master/cf-worker">jsproxy</a>, 使用 Cloudflare Workers 免费部署。<br>
 点击使用：https://proxy1.littlepotato.cf/ <br>
 <br>
